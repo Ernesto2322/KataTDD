@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe9ddacb-4f2d-41bc-9f36-f44e4d0098f1" name="Changes" comment="Creando el esqueleto de las clases Conjunto y TestConjunto">
+    <list default="true" id="fe9ddacb-4f2d-41bc-9f36-f44e4d0098f1" name="Changes" comment="“Caso 1: Calcular promedio con conjunto vacío (Verde)”">
       <change beforePath="$PROJECT_DIR$/tests/TestConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestConjunto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,12 +110,30 @@
       <option name="project" value="LOCAL" />
       <updated>1729021058520</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="“Caso 1: Calcular promedio con conjunto vacío (Rojo)”">
+      <option name="closed" value="true" />
+      <created>1729021384035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729021384035</updated>
+    </task>
+    <task id="LOCAL-00003" summary="“Caso 1: Calcular promedio con conjunto vacío (Verde)”">
+      <option name="closed" value="true" />
+      <created>1729021476893</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729021476893</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creando el esqueleto de las clases Conjunto y TestConjunto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creando el esqueleto de las clases Conjunto y TestConjunto" />
+    <MESSAGE value="“Caso 1: Calcular promedio con conjunto vacío (Rojo)”" />
+    <MESSAGE value="“Caso 1: Calcular promedio con conjunto vacío (Verde)”" />
+    <option name="LAST_COMMIT_MESSAGE" value="“Caso 1: Calcular promedio con conjunto vacío (Verde)”" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
