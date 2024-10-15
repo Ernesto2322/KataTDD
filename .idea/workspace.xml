@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe9ddacb-4f2d-41bc-9f36-f44e4d0098f1" name="Changes" comment="“Caso 1: Calcular promedio con conjunto vacío (Verde)”">
+    <list default="true" id="fe9ddacb-4f2d-41bc-9f36-f44e4d0098f1" name="Changes" comment="Caso 2: Calcular promedio con un conjunto de un elemento (Rojo)">
+      <change beforePath="$PROJECT_DIR$/src/logica/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Conjunto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/TestConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestConjunto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,14 +127,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729021476893</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Caso 2: Calcular promedio con un conjunto de un elemento (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729021735826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729021735826</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creando el esqueleto de las clases Conjunto y TestConjunto" />
     <MESSAGE value="“Caso 1: Calcular promedio con conjunto vacío (Rojo)”" />
     <MESSAGE value="“Caso 1: Calcular promedio con conjunto vacío (Verde)”" />
-    <option name="LAST_COMMIT_MESSAGE" value="“Caso 1: Calcular promedio con conjunto vacío (Verde)”" />
+    <MESSAGE value="Caso 2: Calcular promedio con un conjunto de un elemento (Rojo)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 2: Calcular promedio con un conjunto de un elemento (Rojo)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
